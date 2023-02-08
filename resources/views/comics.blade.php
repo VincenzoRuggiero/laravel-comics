@@ -1,5 +1,1 @@
-@extends('layouts.app')
-
-@section('main-content')
-s
-@endsection
+<h2>Seconda pagina</h2>
